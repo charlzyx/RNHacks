@@ -8,7 +8,6 @@
  * <Scroll
  *  ref={ ref => this.scrollview = (ref && ref.scrollViewRef) }
  * ></Scroll>
- * 其他有bug请告知 @xiaochao.yang
  * --------------
  * BIG BUG! 所以, 这个需要有能力获取到当前路由栈所在页面
  * 页面 A
